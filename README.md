@@ -1,4 +1,4 @@
-Emscripten SDK
+Emscripten SDK :)
 ==============
 
 [![CircleCI](https://circleci.com/gh/emscripten-core/emsdk/tree/main.svg?style=svg)](https://circleci.com/gh/emscripten-core/emsdk/tree/main)
